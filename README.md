@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BazarganDev
 - 👀 I’m interested in programming, movies, videogames and mountain climbing
 - 🌱 I’m currently learning Python
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me:
 
         1. Telegram => @riddlemethis20060918
