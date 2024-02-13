@@ -9,4 +9,6 @@
 -->
 <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=BazarganDev&theme=dark&show_icons=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Mohammad Bazargan" />
 
+<img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=BazarganDev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nima Fanniasl github stats" />
+
 <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BazarganDev&theme=dark&show_icons=true&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
