@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/21187475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21187475" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_mammadbazargan85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_mammadbazargan85" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bazargan_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bazargan_dev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bazargan_dev" target="blank"><img align="center" src="https://github.com/BazarganDev/BazarganDev/blob/main/free-leetcode-3628885-3030025.png" alt="bazargan_dev" height="30" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
