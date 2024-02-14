@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bazargandev&" alt="bazargandev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazargandev&show_icons=true&locale=en" alt="bazargandev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bazargandev&show_icons=true&locale=en" alt="bazargandev" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazargandev&show_icons=true&locale=en&layout=compact" alt="bazargandev" /></p>
 
