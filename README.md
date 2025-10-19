@@ -57,8 +57,8 @@ For collaborations, feel free to email me at <a href="mailto:mohammadbazargan060
 
 ## Overall Activity
 <p align="center">
-	<img align="center" alt="BazarganDev's Stats" src="https://github-readme-stats.vercel.app/api?username=BazarganDev&show_icons=true&hide_border=true&theme=dark" />
-	<img align="center" alt="BazarganDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BazarganDev&layout=compact&theme=dark&show_icons=true&hide_border=true" />
+	<img align="center" alt="BazarganDev's Stats" src="https://github-readme-stats.vercel.app/api?username=BazarganDev&show_icons=true&hide_border=true&theme=radical" />
+	<img align="center" alt="BazarganDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BazarganDev&layout=compact&theme=radical&show_icons=true&hide_border=true" />
 </p>
 <!--
 <p align="center">
